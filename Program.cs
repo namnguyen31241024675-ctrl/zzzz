@@ -4,15 +4,20 @@ class Program
 {
     static void Main()
     {
-        int sum = 0;
+        int number;
         
-        // Vòng lặp từ 1 đến 10
-        for (int i = 1; i <= 10; i++)
+        // Nhập số từ người dùng
+        Console.Write("Nhập một số: ");
+        number = int.Parse(Console.ReadLine());
+        
+        // Kiểm tra số chẵn hay lẻ
+        if (number % 2 == 0)
         {
-            sum += i; // Cộng dồn vào biến sum
+            Console.WriteLine(number + " là số chẵn.");
         }
-        
-        // In ra kết quả tổng
-        Console.WriteLine("Tổng của các số từ 1 đến 10 là: " + sum);
+        else
+        {
+            Console.WriteLine(number + " là số lẻ.");
+        }
     }
 }
