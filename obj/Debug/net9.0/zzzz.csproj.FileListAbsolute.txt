@@ -1,0 +1,15 @@
+C:\Users\Nam\Documents\t\zzzz\bin\Debug\net9.0\zzzz.exe
+C:\Users\Nam\Documents\t\zzzz\bin\Debug\net9.0\zzzz.deps.json
+C:\Users\Nam\Documents\t\zzzz\bin\Debug\net9.0\zzzz.runtimeconfig.json
+C:\Users\Nam\Documents\t\zzzz\bin\Debug\net9.0\zzzz.dll
+C:\Users\Nam\Documents\t\zzzz\bin\Debug\net9.0\zzzz.pdb
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.AssemblyInfo.cs
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.sourcelink.json
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.dll
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\refint\zzzz.dll
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.pdb
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\zzzz.genruntimeconfig.cache
+C:\Users\Nam\Documents\t\zzzz\obj\Debug\net9.0\ref\zzzz.dll
