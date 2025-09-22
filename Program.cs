@@ -4,14 +4,15 @@ class Program
 {
     static void Main()
     {
-        // Khai báo biến
-        string name;
+        int sum = 0;
         
-        // Nhập tên từ người dùng
-        Console.Write("Nhập tên của bạn: ");
-        name = Console.ReadLine();
+        // Vòng lặp từ 1 đến 10
+        for (int i = 1; i <= 10; i++)
+        {
+            sum += i; // Cộng dồn vào biến sum
+        }
         
-        // In ra tên đã nhập
-        Console.WriteLine("Chào " + name + "!");
+        // In ra kết quả tổng
+        Console.WriteLine("Tổng của các số từ 1 đến 10 là: " + sum);
     }
 }
